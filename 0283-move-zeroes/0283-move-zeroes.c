@@ -1,16 +1,22 @@
+void swap(int * a ,int *b){
+    int temp = *a;
+    *a = *b;
+    *b = temp;
+}
+
+
 void moveZeroes(int* nums, int numsSize) {
-//we need to collect non zero elements
-    int count = 0;
-    int i =0;
-    while (i < numsSize)  { if(nums[i] != 0) count++; i++; }
-    if(count ==0) return;
-    int non_zero_array[count];
-    i = 0;
-    int j =0;
-    while(i < numsSize) { if(nums[i] != 0) non_zero_array[j++] = nums[i]; i++; };
-    i =0;
-    while(i < count){nums[i] = non_zero_array[i]; i++;}
-    i = count;
-    while(i < numsSize){ nums[i] = 0; i++;}
+    int zp = 0; // zp pointer points to zero element
+    int nzp = 0; //nzp pointer points to non zero element
+    int i = 0;
+    //finding first nzp value
+    while(i < numsSize){
+        if(nums[nzp] != 0){
+            swap(nums + zp, nums+nzp);
+            zp++;
+        }
+        nzp++;
+        i++;
+    }
 
 }
