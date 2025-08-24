@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Rajeshsaharan/leetcode/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Rajeshsaharan/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
