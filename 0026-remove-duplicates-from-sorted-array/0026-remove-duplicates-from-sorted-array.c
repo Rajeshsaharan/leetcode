@@ -6,10 +6,8 @@ int removeDuplicates(int* nums, int numsSize) {
             count++;
         }
         i++;
-    }
-    count = count + 1; // for last count 
-    printf("%d\n", count);
-    int result[count];
+    };
+    int result[++count]; //++count for size
     i = 0, j = 0;
     int k = 1;
     result[0] = nums[0];
