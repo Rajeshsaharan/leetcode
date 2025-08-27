@@ -1,26 +1,12 @@
 
 
-
-
 int maxProfit(int* prices, int pricesSize) {
-    int min  = INT_MAX, result = INT_MIN, i =0;
-    while(i < pricesSize){
-        if(prices[i] <  min){
-            // got min value
-            min = prices[i];
-            int j = i+1;
-            while(j < pricesSize && prices[j] >= min){
-                int diff = prices[j] - min;
-                result = fmax(diff, result);
-                j++;
-            }
-        }
-        i++;
-    }
-    if ( result == INT_MIN){
-        return 0;
-    }else{
-        return result;
-    }
+    int profit = 0;
+    int min_cost = prices[0], i = 0;
+    while (i < pricesSize) {
+        if(min_cost > prices[i]){ min_cost = prices[i];};
+        profit = fmax(profit, prices[i]- min_cost);
+        i++;    }
 
+    return profit;
 }
