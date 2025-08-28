@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
