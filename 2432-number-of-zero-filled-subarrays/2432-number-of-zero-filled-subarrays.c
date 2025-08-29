@@ -1,19 +1,16 @@
 long long zeroFilledSubarray(int* nums, int numsSize) {
-    int i =0;
-    long long int total_possible_subarray = 0;
-    long long int start_index_of_zero_subarray = 0;;
+    long long int total_subarray = 0, zero_count = 0;
+    int i = 0;
     while(i < numsSize){
-        if(nums[i] == 0){
-            start_index_of_zero_subarray++;
+        if(nums[i] ==0){
+            zero_count++;
         }else{
-            total_possible_subarray += start_index_of_zero_subarray * (start_index_of_zero_subarray +1) /2;
-            start_index_of_zero_subarray = 0;
+            total_subarray += zero_count *(zero_count +1)/2;
+            zero_count  =0;
         }
-
-
         i++;
     }
-
-    if(nums[i-1] == 0){ total_possible_subarray += start_index_of_zero_subarray * (start_index_of_zero_subarray +1) /2;};
-    return total_possible_subarray;
+    //handling endge case
+    if(nums[i-1] == 0) total_subarray += zero_count *(zero_count +1) /2;
+    return total_subarray;
 }
