@@ -6,7 +6,6 @@ char* longestCommonPrefix(char** strs, int strsSize) {
     int i =0;
     while(strs[0][i] != '\0'){
         arr[i] = strs[0][i];
-        printf("%c\n", arr[i]);
         i++;
     }
     arr[i] = '\0';
@@ -14,11 +13,7 @@ char* longestCommonPrefix(char** strs, int strsSize) {
     while(i < strsSize){
         int j = 0;
         while(strs[i][j] != '\0' && j < size ){
-            if(strs[i][j] == arr[j]){
-                printf("%c\n", arr[j]);
-            }
-            else{
-                printf("ending index -> %d", j);
+            if(strs[i][j] != arr[j]){
                 arr[j] = '\0';
                 break;
             }
