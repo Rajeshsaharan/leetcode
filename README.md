@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Rajeshsaharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -82,4 +83,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajeshsaharan/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
