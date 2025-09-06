@@ -9,15 +9,12 @@ int* countBits(int n, int* returnSize) {
     int i =1;
     while(i < *returnSize){
         if(i == lookup_int){
-            count =1;
-            result[i] = count;
-            lookup_int = lookup_int * 2;
+            count = 1;
+            lookup_int *= 2;
             lookup_index = i;
-        }else{
-            count = result[i -lookup_index] + 1;
-            result[i] = count;
         }
-    i++;
+        else count = result[i -lookup_index] + 1;
+        result[i++] = count;
     }
     return result;
 }
