@@ -2,9 +2,8 @@ int rangeBitwiseAnd(int left, int right) {
     unsigned result = 0;
     int i = 31;
     while(i >= 0){
-        unsigned mask = 1u << i;
-        int left_masked = left & mask;
-        int  right_masked = right & mask;
+        int left_masked = left & 1u << i;
+        int  right_masked = right & 1u << i;
         if(left_masked == right_masked){
             if(left_masked == 0){
                 result |= 0u <<i;
