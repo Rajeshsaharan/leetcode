@@ -22,11 +22,7 @@ int maxNumberOfBalloons(char* text) {
     int arr[26];
     int index[] ={0,1, 11, 13, 14}; //a b l n o
     int i = 0;
-    while(text[i] != '\0'){
-        //printf("%d\n", text[i]-97);
-        arr[text[i] - 97]++;
-        i++;
-    }
+    while(text[i] != '\0') arr[text[i++] - 97]++;
     int count = 0, terminate = 1;
     while(terminate != 0){
         int result = check_ballon(arr, index);
