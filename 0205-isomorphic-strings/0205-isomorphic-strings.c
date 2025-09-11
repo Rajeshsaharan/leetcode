@@ -6,11 +6,8 @@ bool isIsomorphic(char* s, char* t) {
         if(arr1[s[i]] == 0 && arr2[t[i]] == 0){
             arr1[s[i]] = t[i];
             arr2[t[i]] = s[i];
-        }else{
-            if(arr1[s[i]] !=t[i] && arr2[t[i]] != s[i]){
-                return false;
-            }
         }
+        if(arr1[s[i]] !=t[i] && arr2[t[i]] != s[i]) return false;
         i++;
     }
     return true;
