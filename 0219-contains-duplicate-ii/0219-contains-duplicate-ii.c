@@ -28,12 +28,13 @@ bool containsNearbyDuplicate(int* nums, int numsSize, int k) {
             node->index = i, node->value = value;
             HASH_ADD_INT(ht, value, node);
         }else{
-            if(abs(i-(h->index)) <= k) return true;
+            if(my_abs(i, (h->index)) <= k) return true;
              node->index = i, node->value = value;
             HASH_ADD_INT(ht, value, node);
 
         }
         i++;
     }
+    free(ht);
     return false;
 }
