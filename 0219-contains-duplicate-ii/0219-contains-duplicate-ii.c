@@ -22,16 +22,14 @@ bool containsNearbyDuplicate(int* nums, int numsSize, int k) {
     while (i < numsSize) {
         struct hash_entry* h;
         int value = nums[i];
-        HASH_FIND_INT(ht, &value, h);
+        HASH_FIND_INT(ht, (nums+i), h); // (nums+i) is actually &value
         struct hash_entry* node = malloc(sizeof(struct hash_entry));
+         node->index = i, node->value = value;
         if (h == NULL) {
-            node->index = i, node->value = value;
             HASH_ADD_INT(ht, value, node);
-        }else{
-            if(my_abs(i, (h->index)) <= k) return true;
-             node->index = i, node->value = value;
+        } else {
+            if (my_abs(i, (h->index)) <= k) return true;
             HASH_ADD_INT(ht, value, node);
-
         }
         i++;
     }
