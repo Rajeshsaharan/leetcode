@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/Rajeshsaharan/leetcode/tree/master/0041-first-missing-positive) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Rajeshsaharan/leetcode/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rajeshsaharan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
