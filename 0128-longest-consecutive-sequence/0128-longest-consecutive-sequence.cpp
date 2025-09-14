@@ -13,14 +13,12 @@ public:
         int first = minHeap.top();
         minHeap.pop();
         while(!minHeap.empty()){
-            cout << minHeap.top() << " ";
             int second = minHeap.top();
             if(first == second){
                 minHeap.pop();
                 continue;
             }else if( first +1 == second){
                 count++;
-                printf("count%d\n", count);
             }else{
                 max = fmax(max, count);
                 count = 0;
