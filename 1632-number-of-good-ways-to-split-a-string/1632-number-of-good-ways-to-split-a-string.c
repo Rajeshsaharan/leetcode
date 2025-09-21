@@ -1,23 +1,19 @@
 int numSplits(char* s) {
     int size = strlen(s);
-    int arr[26] = {0};
+    int freq1[26] = {0};
+    int freq2[26] = {0};
     int i = 0;
+    int count = 0;
     while (s[i] != '\0') {
-        arr[s[i] - 'a']++;
+        if(freq1[s[i]- 97] > 0) count++;
+        freq1[s[i] - 'a']++;
+        freq2[s[i]-'a']++;
         i++;
     }
-
-    int count = 0;
-    for (int k = 0; k < 26; k++) {
-        if (arr[k] > 0)
-            count++;
-    }
+    
     int dp1[size];
     int dp2[size];
     dp1[0] = count;
-    int freq1[26];
-    memcpy(freq1, arr, sizeof(arr));
-
     i = 0;
     int j = 1;
     while (s[i] != '\0' && j < size) {
@@ -31,8 +27,6 @@ int numSplits(char* s) {
         i++;
     }
     dp2[size - 1] = count;
-    int freq2[26];
-    memcpy(freq2, arr, sizeof(arr));
 
     i = size - 1;
     j = size - 2;
