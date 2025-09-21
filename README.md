@@ -52,6 +52,7 @@
 | [0383-ransom-note](https://github.com/Rajeshsaharan/leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
@@ -84,6 +85,7 @@
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/Rajeshsaharan/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Rajeshsaharan/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 ## Sliding Window
 |  |
 | ------- |
