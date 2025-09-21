@@ -19,6 +19,8 @@ int longestConsecutive(int* nums, int numsSize) {
             new_node->visited = 0;
             int val = nums[i];
             HASH_ADD_INT(hash, val, new_node);
+        }else{
+            node->freq++;
         }
         i++;
     }
