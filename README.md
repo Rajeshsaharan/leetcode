@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Rajeshsaharan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Rajeshsaharan/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -97,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/0338-counting-bits) |
@@ -150,4 +153,12 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
