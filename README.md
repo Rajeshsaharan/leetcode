@@ -23,6 +23,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -39,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/Rajeshsaharan/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
