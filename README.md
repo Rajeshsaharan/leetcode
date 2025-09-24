@@ -21,6 +21,7 @@
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Rajeshsaharan/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -38,6 +39,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rajeshsaharan/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -60,6 +62,7 @@
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rajeshsaharan/leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Rajeshsaharan/leetcode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -76,6 +79,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
@@ -159,6 +163,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Stack
 |  |
