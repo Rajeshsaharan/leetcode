@@ -8,20 +8,18 @@ struct hash_entry {
 
 bool hasCycle(struct ListNode *head) {
     struct hash_entry * hash = NULL;
-    struct ListNode * current = head;
-    while(current){
+    while(head){
         struct hash_entry * node;
-        struct ListNode * nd = current;
+        struct ListNode * nd = head;
         HASH_FIND_INT(hash, &nd, node);
         if(node != NULL){
             return true;
         }
-        printf("node->val %d\n", current->val);
         struct hash_entry * new_node;
         new_node = malloc(sizeof(*new_node));
-        new_node->nd = current;
+        new_node->nd = head;
         HASH_ADD_INT(hash,nd, new_node);
-        current = current->next;
+        head = head->next;
     }
 
     return false;
