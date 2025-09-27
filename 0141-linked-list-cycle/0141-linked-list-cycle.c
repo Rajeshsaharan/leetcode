@@ -1,22 +1,22 @@
-struct hash_entry {
-    struct ListNode * nd; //also works like key
-    UT_hash_handle hh;
-};
-
-
-
-
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     struct ListNode *next;
+ * };
+ */
 bool hasCycle(struct ListNode *head) {
-    struct hash_entry * hash = NULL;
-    while(head){
-        struct hash_entry * node, *new_node;
-        struct ListNode * nd = head;
-        HASH_FIND_INT(hash, &nd, node);
-        if(node != NULL)return true;
-        new_node = malloc(sizeof(*new_node));
-        new_node->nd = head;
-        HASH_ADD_INT(hash,nd, new_node);
-        head = head->next;
+    if(head == NULL || head->next == NULL ) return false;
+   struct ListNode * current1,*current2;
+   current1 = head, current2 = head;
+   while(current2 && current2->next){
+     current1   = current1->next;
+    current2 = current2->next->next;
+
+    if(current1 == current2){
+        return true;
     }
-    return false;
+   
+   }
+   return false;
 }
