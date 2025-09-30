@@ -6,9 +6,8 @@ int removeDuplicates(int* nums, int numsSize) {
             int x = 0;
             while(x++ < size) nums[k++] = nums[j];
             z = 0, j = i; // reset and new unique
-        }else{
-            z++, i++;
         }
+        else z++, i++;
     }
     //edge case handling
     i = j ,z = 0;
