@@ -9,10 +9,9 @@ int removeDuplicates(int* nums, int numsSize) {
         }
         else z++, i++;
     }
-    //edge case handling
-    i = j ,z = 0;
-    while(i++ < numsSize) z++;
-    int size = z < 2 ? z : 2;
+    //edge case handling important ! 
+    i = j;
+    int size = numsSize -j < 2 ? numsSize-j : 2;
     int x = 0;
     while(x++ < size) nums[k++] = nums[j];
     return k;
