@@ -18,14 +18,6 @@ int* sortArrayByParity(int* nums, int numsSize, int* returnSize) {
 
         i++;
     }
-    *returnSize = 0;
-    int * result;
-    result = malloc(sizeof(*result) * numsSize);
-    printf("returnSize %d", *returnSize);
-    while(*returnSize < numsSize){
-        result[*returnSize] = nums[*returnSize];
-        printf("returnSize %d", *returnSize);
-        (*returnSize)++;
-    }
-    return result;
+    *returnSize = numsSize;
+    return nums;
 }
