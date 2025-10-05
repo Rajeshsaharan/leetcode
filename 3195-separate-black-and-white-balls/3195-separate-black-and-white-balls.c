@@ -4,9 +4,7 @@ long long minimumSteps(char* s) {
     long long int result = 0;
     while(s[i] != '\0'){
         if(s[i] == '1') count_one++;
-        else {
-            result += count_one;
-        }
+        else result += count_one;
         i++;
     }
     return result;
