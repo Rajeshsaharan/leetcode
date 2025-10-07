@@ -1,11 +1,11 @@
 
 
-void helper(int * nums, int numsSize, int * returnSize, int ** returnColumnSizes, int index, int * subset, int subsetSize, int ** result){
+void helper(int * nums, int numsSize, int * returnSize, int ** returnColumnSizes, int index, int * subset, int subsetSize, int *** result){
     if(index >= numsSize){
-        result[*returnSize] = malloc(sizeof(int) * subsetSize);
+        (*result)[*returnSize] = malloc(sizeof(int) * subsetSize);
         int i =0;
         while(i < subsetSize){
-            result[*returnSize][i] = subset[i];
+            (*result)[*returnSize][i] = subset[i];
             i++;
         }
         (*returnColumnSizes)[(*returnSize)++] = subsetSize;
@@ -25,7 +25,7 @@ int** subsets(int* nums, int numsSize, int* returnSize, int** returnColumnSizes)
     *returnSize = 0;
     *returnColumnSizes = malloc(sizeof(**returnColumnSizes) * capacity);
     int * subset = malloc(sizeof(int) * numsSize);
-    helper(nums, numsSize, returnSize, returnColumnSizes, 0, subset, 0, result);
+    helper(nums, numsSize, returnSize, returnColumnSizes, 0, subset, 0, &result);
     free(subset);
     return result;
 
