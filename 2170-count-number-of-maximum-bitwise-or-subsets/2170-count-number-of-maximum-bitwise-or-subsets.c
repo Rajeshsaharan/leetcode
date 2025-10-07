@@ -6,13 +6,10 @@ int bitwise_or(int * arr, int size){
     return result;
 }
 
-int *subset;
-int max;
-int count;
+int *subset,max , count; //declaring global instead passing by function para
 void helper(int * nums, int numsSize, int index, int subsetSize){
     if(index >= numsSize){
-        int subset_bitwise_or = bitwise_or(subset, subsetSize);
-        if(max == subset_bitwise_or) count++;
+        if(max == bitwise_or(subset, subsetSize)) count++;
         return;
     }
     subset[subsetSize] = nums[index];
