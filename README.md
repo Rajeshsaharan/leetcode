@@ -33,6 +33,7 @@
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Rajeshsaharan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/Rajeshsaharan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
@@ -100,6 +102,7 @@
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Rajeshsaharan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
 | ------- |
