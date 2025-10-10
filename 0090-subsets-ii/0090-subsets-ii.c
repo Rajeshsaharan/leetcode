@@ -1,9 +1,6 @@
 int compare_asc(const void * a, const void * b){
     return *(int *)a- *(int* )b;
 }
-
-
-
 bool compare_array(int* arr1, int arr1_size, int* arr2, int arr2_size) {
     if (arr1_size != arr2_size)
         return false;
@@ -36,10 +33,12 @@ void helper(int* nums, int numsSize, int index, int* subset, int subsetSize,
         (*returnColumnSizes)[*returnSize] = subsetSize;
         (*returnSize)++;
     }
-    for (int j = index; j < numsSize; j++) {
+    int j = index;
+   while(j < numsSize){
         subset[subsetSize] = nums[j];
-        helper(nums, numsSize, j + 1, subset, subsetSize + 1, returnSize, returnColumnSizes);
-    }
+        helper(nums, numsSize, j+1, subset , subsetSize +1, returnSize, returnColumnSizes);
+        j++;
+   }
 }
 
 
