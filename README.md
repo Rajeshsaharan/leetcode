@@ -38,6 +38,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+## Simulation
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
