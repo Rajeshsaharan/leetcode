@@ -12,6 +12,7 @@ int countValidSelections(int* nums, int numsSize) {
     if(total == 0){
         return numsSize * 2;
     }
+    //handle 0 index edge case important
     if(total == 1 && nums[0] == 0){
         ans =ans+1;
     }
