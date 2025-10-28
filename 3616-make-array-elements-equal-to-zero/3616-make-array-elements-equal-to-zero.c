@@ -18,12 +18,10 @@ int countValidSelections(int* nums, int numsSize) {
     }
     while(i < numsSize){
         if(nums[i] == 0){
-            if(total - result_arr[i-1]== result_arr[i-1]){
-                ans = ans+2;
-            }
-            if(total-result_arr[i-1] +1 == result_arr[i-1] || total- result_arr[i-1]-1 == result_arr[i-1]){
-                ans = ans+1;
-            }
+            int value = total -result_arr[i-1];
+            if(value == result_arr[i-1]) ans = ans+2;
+            if(value +1 == result_arr[i-1] || value-1 == result_arr[i-1]) ans = ans+1;
+            
         }
         i++;
     }
