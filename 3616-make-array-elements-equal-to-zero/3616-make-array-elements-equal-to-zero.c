@@ -7,12 +7,6 @@ int countValidSelections(int* nums, int numsSize) {
         i++;
     }
     int total = result_arr[numsSize -1];
-    i = 0;
-    while(i < numsSize){
-        printf(" %d", result_arr[i]);
-        i++;
-    }
-    printf("total is %d", total);
     i = 1;
     int ans = 0;
     if(total == 0){
