@@ -39,6 +39,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
@@ -96,6 +97,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Divide and Conquer
 |  |
@@ -225,6 +227,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajeshsaharan/leetcode/tree/master/0141-linked-list-cycle) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
 | ------- |
