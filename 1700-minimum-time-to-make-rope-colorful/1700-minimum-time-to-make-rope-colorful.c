@@ -1,7 +1,4 @@
 int minCost(char* colors, int* neededTime, int neededTimeSize) {
-    int dp[neededTimeSize];
-    memset(dp, 0, sizeof(dp));
-    dp[0] = 0;
     int i = 1;
     int sum =0;
     while(colors[i] != '\0'){
@@ -11,6 +8,5 @@ int minCost(char* colors, int* neededTime, int neededTimeSize) {
         }
         i++;
     }
-   
     return sum;
 }
