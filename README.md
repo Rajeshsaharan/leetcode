@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rajeshsaharan/leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Rajeshsaharan/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Rajeshsaharan/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0507-perfect-number) |
@@ -263,6 +264,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rajeshsaharan/leetcode/tree/master/0050-powx-n) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
