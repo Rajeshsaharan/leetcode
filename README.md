@@ -78,6 +78,7 @@
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rajeshsaharan/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -271,6 +272,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajeshsaharan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
