@@ -4,7 +4,6 @@ void helper(char* s, char* buffer, int index, int buffer_size, int* returnSize,
             int size) {
     if (index >= size) {
         buffer[buffer_size] = '\0';
-        printf("buffer_size  %d and buffer %s \n", buffer_size, buffer);
         result[*returnSize] = malloc(sizeof(char) * (buffer_size + 1));
         int i = 0;
         while (buffer[i] != '\0') {
