@@ -135,6 +135,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Rajeshsaharan/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Rajeshsaharan/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Rajeshsaharan/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rajeshsaharan/leetcode/tree/master/0205-isomorphic-strings) |
@@ -153,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rajeshsaharan/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rajeshsaharan/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -240,6 +242,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rajeshsaharan/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
