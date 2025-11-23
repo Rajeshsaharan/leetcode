@@ -2,7 +2,6 @@ char ** result;
 void helper(int o, int c, char * buffer, int buffer_size, int * returnSize){
     if(o == 0 && c == 0){
         buffer[buffer_size] = '\0';
-        printf("%s and buffer_size is %d\n",buffer, buffer_size);
          result[*returnSize] = malloc(sizeof(char) * (buffer_size + 1));
        int i = 0;
         while (buffer[i] != '\0') {
