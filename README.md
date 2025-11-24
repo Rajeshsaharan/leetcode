@@ -148,6 +148,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajeshsaharan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -276,6 +277,7 @@
 | [0050-powx-n](https://github.com/Rajeshsaharan/leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajeshsaharan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
