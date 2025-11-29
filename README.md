@@ -241,6 +241,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rajeshsaharan/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Rajeshsaharan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -276,6 +277,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Rajeshsaharan/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Rajeshsaharan/leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
