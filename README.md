@@ -142,6 +142,7 @@
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Rajeshsaharan/leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Rajeshsaharan/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Rajeshsaharan/leetcode/tree/master/0443-string-compression) |
@@ -254,6 +255,7 @@
 | [0046-permutations](https://github.com/Rajeshsaharan/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
@@ -264,10 +266,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 ## Recursion
 |  |
 | ------- |
