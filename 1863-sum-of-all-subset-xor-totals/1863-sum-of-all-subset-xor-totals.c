@@ -2,9 +2,8 @@ int total_xor;
 void helper(int *nums, int numsSize, int current_xor, int index) {
     total_xor += current_xor;
     for(int i = index; i < numsSize; i++) {
-        current_xor ^= nums[i];
-        helper(nums, numsSize, current_xor, i + 1);
-        current_xor ^= nums[i];
+        helper(nums, numsSize, current_xor ^ nums[i], i + 1);
+ 
     }
 }
 
