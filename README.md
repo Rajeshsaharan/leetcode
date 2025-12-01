@@ -37,6 +37,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajeshsaharan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -81,6 +82,7 @@
 | [0507-perfect-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0507-perfect-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -210,6 +212,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sliding Window
@@ -259,10 +262,12 @@
 | [0090-subsets-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
@@ -307,4 +312,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rajeshsaharan/leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
