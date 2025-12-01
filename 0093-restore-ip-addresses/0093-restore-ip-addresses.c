@@ -28,16 +28,18 @@ void helper(char *s , int index,int dots, int * returnSize, char * currentIp, in
     int i = 0;
     while(i < index + 3 && i < strlen(s)){
         if(is_valid(s, index, i)){
-            int temp_pos = pos;
+            int temp_pos = pos; //some approach that can help to understand recursion better 
             int k = index;
             while(k <= i){
-                currentIp[temp_pos++] = s[k];
+                currentIp[pos++] = s[k];
                 k++;
             }
             if(dots < 3){
-                currentIp[temp_pos++] = '.';
+                currentIp[pos++] = '.';
             }
-        helper(s, i+1, dots +1, returnSize, currentIp, temp_pos);
+        helper(s, i+1, dots +1, returnSize, currentIp, pos);
+        pos = temp_pos; // this one also
+        currentIp[pos] = '\0'; // recursion steps added later
         }
         i++;
     }
