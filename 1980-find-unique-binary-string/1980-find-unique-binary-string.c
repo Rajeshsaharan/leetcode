@@ -31,6 +31,5 @@ char* findDifferentBinaryString(char** nums, int numsSize) {
     size = numsSize;
     char* buf = malloc(sizeof(char) * (numsSize + 1));
     int bs = 0;
-    helper(nums, numsSize, buf, bs);
-    return buf;
+    return helper(nums, numsSize, buf, bs);
 }
