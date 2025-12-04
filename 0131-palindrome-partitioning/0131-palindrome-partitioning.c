@@ -15,8 +15,9 @@ void helper(char *s, int index,int n,char ** path, int path_len, int *returnSize
     (*returnColumnSizes)[*returnSize] = path_len;
     int i =0;
     while(i < path_len){
-        result[*returnSize][i] = malloc(sizeof(char) * (strlen(path[i]) + 1));
-        memcpy(result[*returnSize][i], path[i], (strlen(path[i]) +1)); 
+        int path_i_len = strlen(path[i]);
+        result[*returnSize][i] = malloc(sizeof(char) * (path_i_len + 1));
+        memcpy(result[*returnSize][i], path[i], (path_i_len +1)); 
         i++;
     }
     (*returnSize)++;
@@ -30,7 +31,6 @@ void helper(char *s, int index,int n,char ** path, int path_len, int *returnSize
         memcpy(path[path_len] , s + index, len); // cpy the byte till len ;
         path[path_len][len] = '\0';
         helper(s, i +1, n, path, path_len +1 , returnSize, returnColumnSizes);
-        free(path[path_len]);
         }
         i++;
     }
@@ -46,6 +46,5 @@ char*** partition(char* s, int* returnSize, int** returnColumnSizes) {
     char ** path = malloc(sizeof(char *) * (n +1));
     int path_len = 0;
     helper(s, 0, n, path , path_len, returnSize, returnColumnSizes);
-    free(path);
     return result;
 }
