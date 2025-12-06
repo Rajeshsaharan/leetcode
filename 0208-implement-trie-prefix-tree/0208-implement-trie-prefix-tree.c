@@ -18,9 +18,9 @@ Trie* trieCreate(void){
 
 void trieInsert(Trie* obj, char* word) {
     Trie * current = obj;
-    int len = strlen(word);
+    //int len = strlen(word);
     int i = 0;
-    while(i < len){
+    while(word[i] != '\0'){
         int index = word[i] - 97;
         if(current->children[index] == NULL) current->children[index] = trieCreate();
         current = current->children[index];
@@ -31,9 +31,9 @@ void trieInsert(Trie* obj, char* word) {
 
 bool trieSearch(Trie* obj, char* word) {
     Trie * current = obj;
-    int len = strlen(word);
+    //int len = strlen(word);
     int i = 0;
-    while(i < len){
+    while(word[i] != '\0'){
         int index = word[i]-97;
         if(current->children[index] == NULL) return false;
         current = current->children[index];
@@ -44,9 +44,9 @@ bool trieSearch(Trie* obj, char* word) {
 
 bool trieStartsWith(Trie* obj, char* prefix) {
     Trie * current = obj;
-    int len = strlen(prefix);
+   // int len = strlen(prefix);
     int i = 0;
-    while(i < len){
+    while(prefix[i] != '\0'){
         int index = prefix[i]-97;
         if(current->children[index] == NULL) return false;
         current = current->children[index];
