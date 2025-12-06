@@ -16,6 +16,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rajeshsaharan/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajeshsaharan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@
 | [0006-zigzag-conversion](https://github.com/Rajeshsaharan/leetcode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Rajeshsaharan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Rajeshsaharan/leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Rajeshsaharan/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rajeshsaharan/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -267,6 +269,7 @@
 | [0039-combination-sum](https://github.com/Rajeshsaharan/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Rajeshsaharan/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rajeshsaharan/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rajeshsaharan/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -288,6 +291,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
@@ -311,6 +315,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajeshsaharan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
