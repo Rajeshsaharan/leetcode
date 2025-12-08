@@ -1,4 +1,3 @@
-#include <string.h>
 
 int directions[4][2];
 int count;
