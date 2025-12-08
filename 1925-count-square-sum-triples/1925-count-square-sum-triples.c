@@ -1,4 +1,4 @@
-double square_root(int x) {
+double square_root(int x, int p) {
     long long int low = 0;
     long int high = x;
     long int mid;
@@ -16,6 +16,14 @@ double square_root(int x) {
             high = mid-1;
         }
     }
+     double increment = 0.1;
+    for (int i = 0; i < p; i++) {
+        while ((ans + increment) * (ans + increment) <= x) {
+            ans += increment;
+        }
+        increment /= 10;
+    }
+
     return ans;
 }
 
@@ -24,7 +32,7 @@ int countTriples(int n) {
     while( a< n){
         int b = a+1;
         while(b < n){
-            double c = sqrt(a * a + b * b);
+            double c = square_root(a * a + b * b, 3);
             if(c<= n && c ==(int)c) count += 2;
             b++;
         }
