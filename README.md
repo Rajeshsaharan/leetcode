@@ -81,6 +81,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Rajeshsaharan/leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Rajeshsaharan/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Rajeshsaharan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rajeshsaharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Rajeshsaharan/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -248,6 +249,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rajeshsaharan/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
