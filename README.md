@@ -52,6 +52,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
@@ -120,6 +121,7 @@
 | [1980-find-unique-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
+| [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
 ## String
 |  |
 | ------- |
