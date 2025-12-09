@@ -174,6 +174,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajeshsaharan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1980-find-unique-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Rajeshsaharan/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3195-separate-black-and-white-balls](https://github.com/Rajeshsaharan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajeshsaharan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Rajeshsaharan/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 ## Number Theory
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2222-number-of-ways-to-select-buildings](https://github.com/Rajeshsaharan/leetcode/tree/master/2222-number-of-ways-to-select-buildings) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rajeshsaharan/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Greedy
 |  |
