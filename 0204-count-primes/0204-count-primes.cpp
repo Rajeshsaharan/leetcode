@@ -10,12 +10,12 @@ public:
             }
         }
 
-        vector<int> res;
-        for (int p = 2; p <= n; p++) {
+        int res = 0;
+        for (int p = 2; p < n; p++) {
             if (prime[p]) {
-                res.push_back(p);
+                res++;
             }
         }
-        return res.size()-1;
+        return res;
     }
 };
