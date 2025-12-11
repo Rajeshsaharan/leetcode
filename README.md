@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rajeshsaharan/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rajeshsaharan/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -86,6 +87,7 @@
 | [0069-sqrtx](https://github.com/Rajeshsaharan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rajeshsaharan/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rajeshsaharan/leetcode/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Rajeshsaharan/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/Rajeshsaharan/leetcode/tree/master/0507-perfect-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Rajeshsaharan/leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -199,6 +201,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rajeshsaharan/leetcode/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Rajeshsaharan/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
@@ -304,6 +307,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rajeshsaharan/leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Rajeshsaharan/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
