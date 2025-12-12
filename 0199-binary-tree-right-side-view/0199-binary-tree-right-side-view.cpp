@@ -1,32 +1,21 @@
 
 class Solution {
-private:
-    void dfs(TreeNode * root , vector<vector<int>> &v, int level){
-        if(root == NULL) return;
-        v[level].push_back(root->val);
-        dfs(root->left, v, level +1);
-        dfs(root->right, v, level +1);
-    }
-private:
-    int height(TreeNode * root){
-        if(root== NULL) return 0;
-        int left_height = height(root->left);
-        int right_height = height(root->right);
-        return 1 +max(left_height, right_height);
-    }
 public:
-        vector<int> rightSideView(TreeNode* root) {
-        vector<vector<int>> result;
-        //pre compute value;
-        int h = height(root);
-        for(int i = 0; i< h; i++){
-            result.push_back({});
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> result;
+        if(root == NULL) return result;
+        queue<TreeNode *> q;
+        q.push(root);
+        while(!q.empty()){
+            int len = q.size();
+            for(int i = 0; i < len; ++i){
+                TreeNode * node = q.front();
+                q.pop();
+                if(i == len -1) result.push_back(node->val);
+                if(node->left) q.push(node->left);
+                if(node->right) q.push(node->right);
+            }
         }
-        dfs(root, result, 0);
-        vector<int> result2;
-        for(int i = 0; i< h; i++){
-            result2.push_back(result[i][result[i].size()-1]);
-        }
-        return result2;
+        return result;
     }
 };
