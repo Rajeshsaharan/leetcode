@@ -320,6 +320,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
 | ------- |
@@ -344,6 +347,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Recursion
 |  |
 | ------- |
