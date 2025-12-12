@@ -1,30 +1,30 @@
+
 class Solution {
 private:
-    void dfs(TreeNode * root,int level, vector<int> &v){
-        if(root == NULL) return;
-        if(level == 1){
-            v.push_back(root->val);
-        }else{
-            dfs(root->left, level-1, v);
-            dfs(root->right, level-1, v);
-        }
+    int height(TreeNode * root){
+        if(root == NULL) return 0;
+        int left_height = height(root->left);
+        int right_height = height(root->right);
+        return max(left_height, right_height) +1;
     }
 private:
-    int _height(TreeNode * root){
-        if(root == NULL) return 0;
-        int left_height = _height(root->left);
-        int right_height = _height(root->right);
-        return fmax(left_height, right_height) +1;
+    void dfs(TreeNode * root, vector<vector<int>> &v, int level){
+        if(root ==NULL) return;
+        v[v.size()-level-1].push_back(root->val);
+        dfs(root->left, v, level+1);
+        dfs(root->right,v, level +1);
     }
 public:
     vector<vector<int>> levelOrderBottom(TreeNode* root) {
-       vector<vector<int>> result;
-       int height = _height(root);
-       for(int i = height; i >= 1 ; i--){
-            vector<int> v;
-            dfs(root, i,v);
-            result.push_back(v);
-       } 
+        vector<vector<int>> result;
+        //pre_intilze v[i]
+        int h = height(root);
+        int i = 0;
+        while(i < h){
+            result.push_back({}); // v is already an size of h; and i to <h intilized;
+            i++;
+        }
+        dfs(root, result, 0);
     return result;
     }
 };
