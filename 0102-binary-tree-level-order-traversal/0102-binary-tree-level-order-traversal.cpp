@@ -1,24 +1,30 @@
 class Solution {
+private:
+    void dfs(TreeNode * root,int level, vector<int> &v){
+        if(root == NULL) return;
+        if(level == 1){
+            v.push_back(root->val);
+        }else{
+            dfs(root->left, level-1, v);
+            dfs(root->right, level-1, v);
+        }
+    }
+private:
+    int _height(TreeNode * root){
+        if(root == NULL) return 0;
+        int left_height = _height(root->left);
+        int right_height = _height(root->right);
+        return fmax(left_height, right_height) +1;
+    }
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
        vector<vector<int>> result;
-       if(!root) return result;
-       queue<TreeNode *> q;
-       q.push(root);
-       while(!q.empty()){
-        int len = q.size();
-        vector<int> current_level;
-        int i = 0;
-        while(i < len){
-            TreeNode * root = q.front();
-            q.pop();
-            current_level.push_back(root->val);
-            if(root->left) q.push(root->left);
-            if(root->right) q.push(root->right);
-            ++i;
-        }
-        result.push_back(current_level);
-       }
-        return result;
+       int height = _height(root);
+       for(int i = 1; i <= height ; i++){
+            vector<int> v;
+            dfs(root, i,v);
+            result.push_back(v);
+       } 
+    return result;
     }
 };
