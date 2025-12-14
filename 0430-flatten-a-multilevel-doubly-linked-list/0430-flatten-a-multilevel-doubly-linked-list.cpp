@@ -1,7 +1,6 @@
 class Solution {
 private:
-    Node* helper(Node* head) {
-        if (!head) return NULL; 
+    Node* helper(Node* head) { 
         Node* current = head;
         while (current) {
 
