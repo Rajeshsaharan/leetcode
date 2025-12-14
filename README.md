@@ -294,6 +294,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Rajeshsaharan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Backtracking
 |  |
@@ -345,6 +346,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
