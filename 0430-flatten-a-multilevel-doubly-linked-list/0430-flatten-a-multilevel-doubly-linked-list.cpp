@@ -1,7 +1,7 @@
 class Solution {
 private:
     Node* helper(Node* head) {
-        if (!head) return NULL;   // ✅ base case
+        if (!head) return NULL; 
         Node* current = head;
         while (current) {
 
