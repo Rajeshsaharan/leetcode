@@ -180,6 +180,7 @@
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -312,6 +313,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/Rajeshsaharan/leetcode/tree/master/0800-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Rajeshsaharan/leetcode/tree/master/0980-unique-paths-iii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rajeshsaharan/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rajeshsaharan/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -336,6 +338,7 @@
 | [0226-invert-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -350,6 +353,7 @@
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rajeshsaharan/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -378,6 +382,7 @@
 | [0226-invert-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rajeshsaharan/leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Recursion
