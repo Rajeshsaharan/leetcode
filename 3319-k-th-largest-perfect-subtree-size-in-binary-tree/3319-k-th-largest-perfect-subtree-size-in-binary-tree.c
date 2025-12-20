@@ -23,7 +23,7 @@ struct my_struct *  helper(struct TreeNode * root){
     struct my_struct * st = malloc(sizeof(struct my_struct));
     st->height = 1 + fmax(left->height, right->height);
     st->size = 1 + left->size + right->size;
-    int perfect_binary_tree_node = pow(2, st->height) -1;
+    int perfect_binary_tree_node = (1<< st->height) -1;
     if(st->size == perfect_binary_tree_node){
         result[idx++] = st->size;
     }
