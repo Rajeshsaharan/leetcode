@@ -40,6 +40,7 @@
 | [0941-sort-array-by-parity](https://github.com/Rajeshsaharan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [0980-unique-paths-iii](https://github.com/Rajeshsaharan/leetcode/tree/master/0980-unique-paths-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -119,6 +120,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
@@ -348,6 +350,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -370,6 +373,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
@@ -407,6 +411,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
