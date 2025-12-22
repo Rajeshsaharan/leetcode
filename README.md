@@ -53,6 +53,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajeshsaharan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
@@ -352,6 +353,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
@@ -375,6 +377,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -389,6 +392,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -413,6 +417,7 @@
 | [0988-smallest-string-starting-from-leaf](https://github.com/Rajeshsaharan/leetcode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Recursion
