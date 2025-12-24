@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajeshsaharan/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rajeshsaharan/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajeshsaharan/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rajeshsaharan/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rajeshsaharan/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [0130-surrounded-regions](https://github.com/Rajeshsaharan/leetcode/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajeshsaharan/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -403,6 +406,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0130-surrounded-regions](https://github.com/Rajeshsaharan/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Rajeshsaharan/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -454,6 +458,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Rajeshsaharan/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Rajeshsaharan/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0212-word-search-ii) |
 | [0980-unique-paths-iii](https://github.com/Rajeshsaharan/leetcode/tree/master/0980-unique-paths-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
