@@ -37,6 +37,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Rajeshsaharan/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rajeshsaharan/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajeshsaharan/leetcode/tree/master/0733-flood-fill) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -213,6 +214,7 @@
 | [0131-palindrome-partitioning](https://github.com/Rajeshsaharan/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -422,6 +424,7 @@
 | [0226-invert-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Rajeshsaharan/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajeshsaharan/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rajeshsaharan/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rajeshsaharan/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajeshsaharan/leetcode/tree/master/0733-flood-fill) |
@@ -477,6 +480,7 @@
 | [0130-surrounded-regions](https://github.com/Rajeshsaharan/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajeshsaharan/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/Rajeshsaharan/leetcode/tree/master/0212-word-search-ii) |
+| [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rajeshsaharan/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajeshsaharan/leetcode/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/Rajeshsaharan/leetcode/tree/master/0980-unique-paths-iii) |
