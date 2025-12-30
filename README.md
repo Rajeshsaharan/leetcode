@@ -43,6 +43,7 @@
 | [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Rajeshsaharan/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajeshsaharan/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rajeshsaharan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Rajeshsaharan/leetcode/tree/master/0941-sort-array-by-parity) |
@@ -222,6 +223,7 @@
 | [0338-counting-bits](https://github.com/Rajeshsaharan/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Rajeshsaharan/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rajeshsaharan/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Rajeshsaharan/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
