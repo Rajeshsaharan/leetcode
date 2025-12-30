@@ -65,6 +65,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rajeshsaharan/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rajeshsaharan/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rajeshsaharan/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
@@ -138,6 +139,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rajeshsaharan/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
@@ -173,6 +175,7 @@
 | [0778-reorganize-string](https://github.com/Rajeshsaharan/leetcode/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/Rajeshsaharan/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rajeshsaharan/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3583-count-special-triplets](https://github.com/Rajeshsaharan/leetcode/tree/master/3583-count-special-triplets) |
 ## String
 |  |
@@ -252,6 +255,7 @@
 | [0917-boats-to-save-people](https://github.com/Rajeshsaharan/leetcode/tree/master/0917-boats-to-save-people) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rajeshsaharan/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rajeshsaharan/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3195-separate-black-and-white-balls](https://github.com/Rajeshsaharan/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Trie
 |  |
