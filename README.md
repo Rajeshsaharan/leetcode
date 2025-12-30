@@ -51,6 +51,7 @@
 | [0994-rotting-oranges](https://github.com/Rajeshsaharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1020-number-of-enclaves](https://github.com/Rajeshsaharan/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rajeshsaharan/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Rajeshsaharan/leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -446,6 +447,7 @@
 | [0841-keys-and-rooms](https://github.com/Rajeshsaharan/leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Rajeshsaharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rajeshsaharan/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -503,6 +505,7 @@
 | [0980-unique-paths-iii](https://github.com/Rajeshsaharan/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Rajeshsaharan/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Rajeshsaharan/leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Rajeshsaharan/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rajeshsaharan/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rajeshsaharan/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
