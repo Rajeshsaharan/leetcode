@@ -301,6 +301,7 @@
 | [0547-number-of-provinces](https://github.com/Rajeshsaharan/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rajeshsaharan/leetcode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Rajeshsaharan/leetcode/tree/master/1020-number-of-enclaves) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search
 |  |
 | ------- |
@@ -425,6 +426,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Rajeshsaharan/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -451,6 +453,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Rajeshsaharan/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajeshsaharan/leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -544,4 +547,5 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rajeshsaharan/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Rajeshsaharan/leetcode/tree/master/0841-keys-and-rooms) |
+| [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
