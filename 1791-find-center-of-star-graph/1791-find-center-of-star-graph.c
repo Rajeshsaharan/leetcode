@@ -12,6 +12,5 @@ int findCenter(int** edges, int edgesSize, int* edgesColSize) {
         }
         i++;
     }
-    printf("first %d and seconde %d", first, second);
     return first == edgesSize? first_choice : second_choice;
 }
