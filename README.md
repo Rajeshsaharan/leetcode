@@ -559,6 +559,7 @@
 | [0547-number-of-provinces](https://github.com/Rajeshsaharan/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Rajeshsaharan/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Rajeshsaharan/leetcode/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/Rajeshsaharan/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
