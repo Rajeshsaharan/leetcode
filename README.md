@@ -141,6 +141,7 @@
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1635-number-of-good-pairs](https://github.com/Rajeshsaharan/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/Rajeshsaharan/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2374-node-with-highest-edge-score](https://github.com/Rajeshsaharan/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Rajeshsaharan/leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajeshsaharan/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rajeshsaharan/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -560,6 +561,7 @@
 | [0785-is-graph-bipartite](https://github.com/Rajeshsaharan/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Rajeshsaharan/leetcode/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Rajeshsaharan/leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/Rajeshsaharan/leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rajeshsaharan/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
